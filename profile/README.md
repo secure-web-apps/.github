@@ -4,6 +4,10 @@ This GitHub organization is owned by @damienbod and @rufer7.
 
 It's used to host presentations and source code for our .NET User Group Switzerland Tour :switzerland:.
 
+### Dates
+
+1. [29.10.2025 - `End-to-End Secure Web Development with .NET Aspire, JavaScript, E-ID` @ .NET User Group Bern](https://www.meetup.com/net-user-group-bern/events/311391749/?eventOrigin=home_page_upcoming_events%24all)
+
 ### End-to-End Secure Web Development with .NET Aspire, JavaScript Frameworks, and DevSecOps
 
 In this session, we look at the critical techniques for securing web applications, leveraging the power of .NET and modern JavaScript frameworks. Attendees will gain insights into implementing robust authentication and authorization mechanisms, adhering to industry standards such as OAuth and OpenID Connect. Additionally, we will explore strategies for session protection, emphasizing a zero-trust approach to ensure comprehensive security and DevOps SAST using Sonar. Join us to learn best practices and practical solutions for safeguarding your web applications against evolving threats.
@@ -33,7 +37,3 @@ Marc is a passionate software engineer and Microsoft MVP, living in Switzerland 
 [Bluesky](https://bsky.app/profile/rufer.be)
 
 [LinkedIn](https://www.linkedin.com/in/marcrufer)
-
-### Dates
-
-1. [29.10.2025 - `End-to-End Secure Web Development with .NET Aspire, JavaScript, E-ID` @ .NET User Group Bern](https://www.meetup.com/net-user-group-bern/events/311391749/?eventOrigin=home_page_upcoming_events%24all)
